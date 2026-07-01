@@ -1,1 +1,1 @@
-Demo RAG on Streamlit
+Demo RAG on Streamlit.
